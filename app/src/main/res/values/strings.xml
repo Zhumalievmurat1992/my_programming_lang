@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProgramming_lang</string>
+    <string-array name="programming_lang">
+        <item>Swift</item>
+        <item>JavaScript</item>
+        <item>C++</item>
+        <item>Java</item>
+    </string-array>
+
+</resources>
